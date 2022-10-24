@@ -59,7 +59,7 @@ body {
   border-color: #ffc600;
 }
 
-.player__slider {
+.player-slider {
   width: 10px;
   height: 30px;
 }
@@ -98,7 +98,7 @@ body {
   cursor: ew-resize;
 }
 
-.progress__filled {
+.progress-filled {
   width: 50%;
   background: #ffc600;
   flex: 0;
